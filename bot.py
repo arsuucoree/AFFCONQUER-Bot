@@ -7,7 +7,7 @@ import os
 #   ⚔️  AFFCONQUER WELCOME BOT  by @OPANKUSHFF007
 # ══════════════════════════════════════════════════════
 
-TOKEN               = os.getenv("DISCORD_TOKEN", "YOUR_BOT_TOKEN_HERE")
+TOKEN               = os.getenv("MTUxOTI2NTE0NDU1MzYwMzEwMg.GcxP_l.RLWRgShXXOB0TD0EXwsyZ1aKUglKBBJawPwcE4", "MTUxOTI2NTE0NDU1MzYwMzEwMg.GcxP_l.RLWRgShXXOB0TD0EXwsyZ1aKUglKBBJawPwcE4")
 WELCOME_CHANNEL_ID  = 1518883411971014786   # #general-chat (say hi here)
 SERVER_INFO_CHANNEL = 1518880166284099684   # #server-info  (MC IP)
 BANNER_GIF_URL      = ""                   # optional — paste imgur gif link
